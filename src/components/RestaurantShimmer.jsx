@@ -1,8 +1,8 @@
 const RestaurantShimmer = () => {
   return (
-    <div className="w-1/2 mb-5 sm:mb-2 sm:w-[320px] animate-pulse">
+    <div className="w-full mb-5 sm:mb-2 sm:w-[320px] animate-pulse">
       {/* Image shimmer */}
-      <div className="w-41.25 sm:w-full h-50 bg-gray-200 rounded-2xl" />
+      <div className="w-full sm:w-full h-50 bg-gray-200 rounded-2xl" />
 
       {/* Text shimmer */}
       <div className="mt-3 px-3 space-y-2">
