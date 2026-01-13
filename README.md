@@ -8,8 +8,6 @@ This project follows real-world architecture with frontend and backend separated
 
 Frontend (Vercel): https://swiggy-frontend-tau-wheat.vercel.app/
 
-Backend (Render): https://swiggy-backend-zvfu.onrender.com
-
 🏗️ Architecture Overview
 Frontend (React + Vite)
 |
